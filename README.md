@@ -5,7 +5,8 @@ To analyse the effect of P, PI and PID controllers for the system having open lo
 Computer with MATLAB software
 
 ## Theory:
-	A controller is a device introduced in the system to modify the error signal and to produce a control signal. The way the controller produces the control signal is called the control action. 
+	A controller is a device introduced in the system to modify the error signal and to produce a control signal. 
+	The way the controller produces the control signal is called the control action.
 
 Consider the following unity feedback system,
  <img width="823" height="281" alt="image" src="https://github.com/user-attachments/assets/36e49512-cf47-4fec-b00c-f79dc0af1c5f" />
@@ -71,12 +72,31 @@ The addition of an integral term to the controller ( ) tends to help reduce stea
 
 
 ## Result:
-Thus the P, PI and PID controllers for the given system was analysed using MATLAB. 
-The steady state error for the system,
-With-out controller = 
-With P Controller =
-With PI Controller =
-With PID Controller =
+Thus the P, PI and PID controllers for the given system was analysed and the following conclusions were arrived using MATLAB. <br>
+### With-out controller 
+Delay time =         <br>
+Rise time =             <br>
+Peak time =           <br>
+Settling time =            <br>
+Steady State Error =        <br>
+### With P Controller 
+Delay time =         <br>
+Rise time =             <br>
+Peak time =           <br>
+Settling time =            <br>
+Steady State Error =        <br>
+### With PI Controller 
+Delay time =         <br>
+Rise time =             <br>
+Peak time =           <br>
+Settling time =            <br>
+Steady State Error =        <br>
+### With PID Controller 
+Delay time =         <br>
+Rise time =             <br>
+Peak time =           <br>
+Settling time =            <br>
+Steady State Error =        <br>
 
 
 
