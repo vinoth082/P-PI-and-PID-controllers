@@ -122,7 +122,7 @@ Thus the P, PI and PID controllers for the given system was analysed and the fol
 ### With-out controller 
 Delay time = 0.5 s        <br>
 Rise time = 1.17 s            <br>
-Peak time = 2.31 s          <br>
+Peak time = undefined         <br>
 Settling time = 2.31 s           <br>
 Steady State Error = 0.95       <br>
 ### With P Controller 
